@@ -1,7 +1,7 @@
 # Dijkstra-s-Algorithm
 Part of CS340 Assignment-4
 
-It is a C++ code for Dijkstra's algorithm
+It is a C++ code for Dijkstra's algorithm.
 To compile and run the output using command line, follow the below steps:
 To compile: go to the directory and use g++ -o dijkstra.cpp dijkstra
 To run: ./dijkstra
