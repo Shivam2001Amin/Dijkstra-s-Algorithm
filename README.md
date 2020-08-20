@@ -5,7 +5,7 @@ It is a C++ code for Dijkstra's algorithm.
 To compile and run the output using command line, follow the below steps:
 To compile: go to the directory and use g++ -o dijkstra.cpp dijkstra
 To run: ./dijkstra
-Input: Entervalues for a 6x6 matrix.
+Input: Enter values for a 6x6 matrix.
 Sample input:
 {{0 10 20 0 0 0}, 
 {10 0 0 50 10 0},
