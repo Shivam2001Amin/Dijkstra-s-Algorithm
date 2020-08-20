@@ -1,0 +1,28 @@
+Last login: Wed Aug 19 22:22:15 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+SMBA:~ saz572$ ls
+Desktop		Downloads	Movies		Pictures	eclipse
+Documents	Library		Music		Public
+SMBA:~ saz572$ cd Desktop/
+SMBA:Desktop saz572$ ls
+Relocated Items		dijkstra.cpp
+a.out			eclipse workspace
+SMBA:Desktop saz572$ g++ *.cpp
+SMBA:Desktop saz572$ ./a.out
+Enter graph values for 6x6 matrix: 0 10 20 0 0 0
+10 0 0 50 10 0
+20 0 0 20 33 0
+0 50 20 0 20 2
+0 10 33 20 0 1
+0 0 0 2 1 0
+Vertex		Distance from source(A)
+A			0
+B			10
+C			20
+D			23
+E			20
+F			21
+SMBA:Desktop saz572$ 
