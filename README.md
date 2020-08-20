@@ -7,9 +7,9 @@ To compile: go to the directory and use g++ -o dijkstra.cpp dijkstra
 To run: ./dijkstra
 Input: Entervalues for a 6x6 matrix.
 Sample input:
-0 10 20 0 0 0 
-10 0 0 50 10 0
-20 0 0 20 33 0
-0 50 20 0 20 2
-0 10 33 20 0 1
-0 0 0 2 1 0
+{{0 10 20 0 0 0}, 
+{10 0 0 50 10 0},
+{20 0 0 20 33 0},
+{0 50 20 0 20 2},
+{0 10 33 20 0 1},
+{0 0 0 2 1 0}}
